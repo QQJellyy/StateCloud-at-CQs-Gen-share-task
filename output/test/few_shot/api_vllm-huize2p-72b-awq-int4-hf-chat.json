@@ -1,0 +1,850 @@
+{
+  "CLINTON_27": {
+    "intervention_id": "CLINTON_27",
+    "intervention": "CLINTON: \"actually , I have thought about this quite a bit\n...\nnot quite that long\nmy husband did a pretty good job in the 1990s\nI think a lot about what worked and how we can make it work again\n...\na balanced budget\nmillion new jobs\n...\nIncomes went up for everybody\n Manufacturing jobs went up also in the 1990s , if we 're actually going to look at the facts\nWhen I was in the Senate , I had a number of trade deals that came before me\nI held them all to the same test\nWill they create jobs in America ?\nWill they raise incomes in America ?\nare they good for our national security ?\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Example",
+      "Example",
+      "Sign"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_27_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the increase in manufacturing jobs during the 1990s, as mentioned by Clinton, necessarily mean that similar policies will have the same effect in the current economic context?\""
+      },
+      {
+        "id": "CLINTON_27_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the increase in manufacturing jobs during the 1990s, as mentioned by Clinton, necessarily mean that similar policies will have the same effect in the current economic context?\""
+      },
+      {
+        "id": "CLINTON_27_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the increase in manufacturing jobs during the 1990s, as mentioned by Clinton, necessarily mean that similar policies will have the same effect in the current economic context?\""
+      }
+    ],
+    "raw_model_output": "\"Does the increase in manufacturing jobs during the 1990s, as mentioned by Clinton, necessarily mean that similar policies will have the same effect in the current economic context?\""
+  },
+  "CLINTON_277": {
+    "intervention_id": "CLINTON_277",
+    "intervention": "CLINTON: \"I support our democracy\nsometimes you win , sometimes you lose\nI certainly will support the outcome of this election\nDonald 's trying very hard to plant doubts about it\nI hope the people out there understandThis election 's really up to you\nIt 's not about us so much as it is about you and your families and the kind of country and future you want\nI sure hope you will get out and vote as though your future depended on it\nit does\"",
+    "dataset": "US2016",
+    "schemes": [
+      "PracticalReasoning",
+      "Consequences"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_277_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it possible that Donald Trump's efforts to plant doubts about the election are a legitimate concern, or is it merely a tactic to undermine the democratic process?\""
+      },
+      {
+        "id": "CLINTON_277_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it possible that Donald Trump's efforts to plant doubts about the election are a legitimate concern, or is it merely a tactic to undermine the democratic process?\""
+      },
+      {
+        "id": "CLINTON_277_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it possible that Donald Trump's efforts to plant doubts about the election are a legitimate concern, or is it merely a tactic to undermine the democratic process?\""
+      }
+    ],
+    "raw_model_output": "\"Is it possible that Donald Trump's efforts to plant doubts about the election are a legitimate concern, or is it merely a tactic to undermine the democratic process?\""
+  },
+  "CLINTON_47": {
+    "intervention_id": "CLINTON_47",
+    "intervention": "CLINTON: \"that is just not accurate\nI was against it once it was finally negotiated and the terms were laid out\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Sign"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_47_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Was Clinton against the negotiation from the beginning, or only after the terms were laid out?\""
+      },
+      {
+        "id": "CLINTON_47_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Was Clinton against the negotiation from the beginning, or only after the terms were laid out?\""
+      },
+      {
+        "id": "CLINTON_47_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Was Clinton against the negotiation from the beginning, or only after the terms were laid out?\""
+      }
+    ],
+    "raw_model_output": "\"Was Clinton against the negotiation from the beginning, or only after the terms were laid out?\""
+  },
+  "Feedback-Commenter_183": {
+    "intervention_id": "Feedback-Commenter_183",
+    "intervention": "Feedback-Commenter: \"It is long past time that the airlines treat passengers, their primary source of income, as customers they cherish and not the nuisance we've become.\nIt has been said that new fees and penalties will only be passed to the passenger already struggling with higher fares and convenience fees of all kinds.\nPassengers need to remember that the airlines are still a competitive environment.\nIf you don't like the fare, go elsewhere or fine some other mode of transportation.\nSouthwest has been a shining example of what the legacy airlines should look forward to if they don't treat customers right.\nI've also found plenty of international airlines far more willing to treat me well on those coveted long haul flights\nand have completely refused to fly any American airlines on a long haul out of the country as a result.\nThey've lost my business\nand until they lose more, they may never learn.\nThey should be allowed to go out of business and let someone else without the legacy problems to have a go at it.\nAmerican consumers deserve better.\nUntil then, it's Air France or Lufthansa for me!\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERPracticalReasoning",
+      "ERExample",
+      "ERPracticalReasoning",
+      "ERPracticalReasoning"
+    ],
+    "cqs": [
+      {
+        "id": "Feedback-Commenter_183_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that American airlines should be allowed to go out of business and be replaced by new companies without legacy problems a realistic solution, given the complexity and regulation of the airline industry?\""
+      },
+      {
+        "id": "Feedback-Commenter_183_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that American airlines should be allowed to go out of business and be replaced by new companies without legacy problems a realistic solution, given the complexity and regulation of the airline industry?\""
+      },
+      {
+        "id": "Feedback-Commenter_183_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that American airlines should be allowed to go out of business and be replaced by new companies without legacy problems a realistic solution, given the complexity and regulation of the airline industry?\""
+      }
+    ],
+    "raw_model_output": "\"Is the argument that American airlines should be allowed to go out of business and be replaced by new companies without legacy problems a realistic solution, given the complexity and regulation of the airline industry?\""
+  },
+  "HOLT_122": {
+    "intervention_id": "HOLT_122",
+    "intervention": "HOLT: \"How do you heal the divide\nThe share of Americans who say race relations are bad in this country is the highest it's been in decades\nmuch of it amplified by shootings of African-Americans by police\nwe've seen recently in Charlotte and Tulsa\nRace has been a big issue in this campaign\none of you is going to have to bridge a very wide and bitter gap\"",
+    "dataset": "US2016",
+    "schemes": [
+      "CauseToEffect",
+      "Example"
+    ],
+    "cqs": [
+      {
+        "id": "HOLT_122_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to attribute the worsening of race relations in America solely to police shootings of African-Americans, or are there other factors that contribute to this issue?\""
+      },
+      {
+        "id": "HOLT_122_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to attribute the worsening of race relations in America solely to police shootings of African-Americans, or are there other factors that contribute to this issue?\""
+      },
+      {
+        "id": "HOLT_122_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to attribute the worsening of race relations in America solely to police shootings of African-Americans, or are there other factors that contribute to this issue?\""
+      }
+    ],
+    "raw_model_output": "\"Is it accurate to attribute the worsening of race relations in America solely to police shootings of African-Americans, or are there other factors that contribute to this issue?\""
+  },
+  "HOLT_159": {
+    "intervention_id": "HOLT_159",
+    "intervention": "HOLT: \"for five years , you perpetuated a false claim that the nation 's first black president was not a natural-born citizen\nYou questioned his legitimacy\nIn the last couple of weeks , you acknowledged what most Americans have accepted for yearsThe president was born in the United States\nCan you tell us what took you so long\"",
+    "dataset": "US2016",
+    "schemes": [
+      "CircumstantialAdHominem"
+    ],
+    "cqs": [
+      {
+        "id": "HOLT_159_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to question the president's legitimacy based on a claim that was widely accepted as false by most Americans for years, and what does this suggest about the reasons for your prolonged skepticism?\""
+      },
+      {
+        "id": "HOLT_159_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to question the president's legitimacy based on a claim that was widely accepted as false by most Americans for years, and what does this suggest about the reasons for your prolonged skepticism?\""
+      },
+      {
+        "id": "HOLT_159_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to question the president's legitimacy based on a claim that was widely accepted as false by most Americans for years, and what does this suggest about the reasons for your prolonged skepticism?\""
+      }
+    ],
+    "raw_model_output": "\"Is it fair to question the president's legitimacy based on a claim that was widely accepted as false by most Americans for years, and what does this suggest about the reasons for your prolonged skepticism?\""
+  },
+  "AB_68": {
+    "intervention_id": "AB_68",
+    "intervention": "AB: \"Indeed.\n I think there should be a careful balancing act of freedom.\nLiberal societies have often known that the family can be a nexus for forms of unequal opportunity, but we don’t abolish the family.\nFor the same reasons we should be very circumspect in the way we intervene in families,\n if you would like to consider the concept of non domination, freedom as non domination – the non interference on arbitrary grounds in people’s important decisions – then we have to be careful that when we do intervene it’s to increase total non domination.\nWhich would mean not interfering simply because people are mad, sad and bad, but because they are imposing domination on their neighbours.\"",
+    "dataset": "moral_maze_schemes",
+    "schemes": [
+      "Analogy"
+    ],
+    "cqs": [
+      {
+        "id": "AB_68_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the concept of non-interference on arbitrary grounds sufficient to justify intervention in families, or are there other criteria that should be considered to ensure that such interventions truly increase total non domination?\""
+      },
+      {
+        "id": "AB_68_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the concept of non-interference on arbitrary grounds sufficient to justify intervention in families, or are there other criteria that should be considered to ensure that such interventions truly increase total non domination?\""
+      },
+      {
+        "id": "AB_68_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the concept of non-interference on arbitrary grounds sufficient to justify intervention in families, or are there other criteria that should be considered to ensure that such interventions truly increase total non domination?\""
+      }
+    ],
+    "raw_model_output": "\"Is the concept of non-interference on arbitrary grounds sufficient to justify intervention in families, or are there other criteria that should be considered to ensure that such interventions truly increase total non domination?\""
+  },
+  "Antanagoge_218": {
+    "intervention_id": "Antanagoge_218",
+    "intervention": "Antanagoge: \"Prevalence information as reported by the National Institute of Allergy and Infectious Diseases\nhttp://www.niaid.nih.gov/topics/foodallergy/understanding/pages/quickfacts.aspx:\nFood allergy occurs in 6 to 8 percent of children 4 years of age or under, and in 3.7 percent of adults.\nAllergy to peanuts and tree nuts in the general population is, respectively, 0.6 percent and 0.4 percent, with the rate in children under age 18 (0.8 percent and 0.2 percent) slightly different from adults (0.6 percent and 0.5 percent respectively).\nThese two foods are the leading causes of fatal and near fatal foodallergic reactions.\nIn spite of attempts to avoid allergenic foods, accidental exposures are the major causes of allergic reactions to foods.\nOver a period of two years, approximately 50 percent of subjects in the United States with food allergy have an allergic reaction to accidental exposure.\nIn the United States, there are approximately 30,000 episodes of foodinduced anaphylaxis, associated with 100 to 200 deaths;\nmost deaths occur in adolescents and young adults.\nFood allergy is the most frequent single cause of emergency room visits for anaphylaxis and accounts for 34 to 52 percent of these visits.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERExpertOpinion",
+      "ERExpertOpinion"
+    ],
+    "cqs": [
+      {
+        "id": "Antanagoge_218_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Given that accidental exposures are the major causes of allergic reactions to foods, how effective are current strategies to prevent such exposures, and what additional measures could be implemented to reduce the risk of accidental exposure?\""
+      },
+      {
+        "id": "Antanagoge_218_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Given that accidental exposures are the major causes of allergic reactions to foods, how effective are current strategies to prevent such exposures, and what additional measures could be implemented to reduce the risk of accidental exposure?\""
+      },
+      {
+        "id": "Antanagoge_218_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Given that accidental exposures are the major causes of allergic reactions to foods, how effective are current strategies to prevent such exposures, and what additional measures could be implemented to reduce the risk of accidental exposure?\""
+      }
+    ],
+    "raw_model_output": "\"Given that accidental exposures are the major causes of allergic reactions to foods, how effective are current strategies to prevent such exposures, and what additional measures could be implemented to reduce the risk of accidental exposure?\""
+  },
+  "CLINTON_105": {
+    "intervention_id": "CLINTON_105",
+    "intervention": "CLINTON: \"if he 's paid zero , that means zero for troops , zero for vets , zero for schools or health\nprobably he 's not all that enthusiastic about having the rest of our country see what the real reasons are\n...\nthe financial disclosure statements , they do n't give you the tax rate\nThey do n't give you all the details that tax returns would\nthis is something that the American people deserve to see\nI have no reason to believe that he 's ever going to release his tax returns\nthere 's something he 's hiding\nwe 'll guess\nWe 'll keep guessing at what it might be that he 's hiding\nwere he ever to get near the White House , what would be those conflicts ?\nWho does he owe money to ?\nhe owes you the answers to that\nhe should provide them\"",
+    "dataset": "US2016",
+    "schemes": [
+      "VerbalClassification"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_105_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that the candidate is hiding something simply because he has not released his tax returns, or could there be other reasons for his decision?\""
+      },
+      {
+        "id": "CLINTON_105_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that the candidate is hiding something simply because he has not released his tax returns, or could there be other reasons for his decision?\""
+      },
+      {
+        "id": "CLINTON_105_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that the candidate is hiding something simply because he has not released his tax returns, or could there be other reasons for his decision?\""
+      }
+    ],
+    "raw_model_output": "\"Is it fair to assume that the candidate is hiding something simply because he has not released his tax returns, or could there be other reasons for his decision?\""
+  },
+  "CLINTON_116": {
+    "intervention_id": "CLINTON_116",
+    "intervention": "CLINTON: \"maybe because you have n't paid any federal income tax for a lot of years\nIt would be squandered , too , believe me\nif your main claim to be president of the United States is your business , then I think we should talk about that\nI have met a lot of the people who were stiffed by you and your businesses\nI 've met dishwashers , painters , architects , glass installers , marble installers , drapery installers , like my dad was , who you refused to pay when they finished the work that you asked them to do\nWe have an architect in the audience who designed one of your clubhouses at one of your golf courses\nIt's a beautiful facility\nIt immediately was put to use\nyou wouldn't pay what the man needed to be paid, what he was charging you to do\"",
+    "dataset": "US2016",
+    "schemes": [
+      "PopularOpinion",
+      "PopularOpinion"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_116_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that all the individuals Clinton mentions as being 'stiffed' by Trump's businesses were not paid for work they completed, or could there be other reasons for non-payment that are not addressed in this text?\""
+      },
+      {
+        "id": "CLINTON_116_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that all the individuals Clinton mentions as being 'stiffed' by Trump's businesses were not paid for work they completed, or could there be other reasons for non-payment that are not addressed in this text?\""
+      },
+      {
+        "id": "CLINTON_116_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that all the individuals Clinton mentions as being 'stiffed' by Trump's businesses were not paid for work they completed, or could there be other reasons for non-payment that are not addressed in this text?\""
+      }
+    ],
+    "raw_model_output": "\"Is it fair to assume that all the individuals Clinton mentions as being 'stiffed' by Trump's businesses were not paid for work they completed, or could there be other reasons for non-payment that are not addressed in this text?\""
+  },
+  "CLINTON_118": {
+    "intervention_id": "CLINTON_118",
+    "intervention": "CLINTON: \"Do the thousands of people that you have stiffed over the course of your business not deserve some kind of apology from someone who has taken their labor, taken the goods that they produced, and then refused to pay them?\nI can only say that I'm certainly relieved that my late father never did business with you\nHe provided a good middle-class life for us\nthe people he worked for, he expected the bargain to be kept on both sides\nwhen we talk about your business, you've taken business bankruptcy six times\nThere are a lot of great businesspeople that have never taken bankruptcy once\nYou call yourself the King of Debt\nYou talk about leverage\nYou even at one time suggested that you would try to negotiate down the national debt of the United States\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Sign",
+      "Sign",
+      "Values",
+      "Example"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_118_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the frequency of Trump's business bankruptcies necessarily indicate poor business practices, or could it reflect strategic financial decisions in a highly competitive industry?\""
+      },
+      {
+        "id": "CLINTON_118_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the frequency of Trump's business bankruptcies necessarily indicate poor business practices, or could it reflect strategic financial decisions in a highly competitive industry?\""
+      },
+      {
+        "id": "CLINTON_118_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the frequency of Trump's business bankruptcies necessarily indicate poor business practices, or could it reflect strategic financial decisions in a highly competitive industry?\""
+      }
+    ],
+    "raw_model_output": "\"Does the frequency of Trump's business bankruptcies necessarily indicate poor business practices, or could it reflect strategic financial decisions in a highly competitive industry?\""
+  },
+  "CLINTON_172": {
+    "intervention_id": "CLINTON_172",
+    "intervention": "CLINTON: \"just listen to what you heard\nclearly , as Donald just admitted , he knew he was going to stand on this debate stage , and Lester Holt was going to be asking us questions\nhe tried to put the whole racist birther lie to bed\nit ca n't be dismissed that easily\nHe has really started his political activity based on this racist lie that our first black president was not an American citizen\nThere was absolutely no evidence for it\nhe persisted\nhe persisted year after year\nsome of his supporters , people that he was trying to bring into his fold , apparently believed it or wanted to believe it\nremember , Donald started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans , and he made sure that the people who worked for him understood that was the policy\nHe actually was sued twice by the Justice Department\nhe has a long record of engaging in racist behavior\nthe birther lie was a very hurtful one\nBarack Obama is a man of great dignity\nI could tell how much it bothered him and annoyed him that this was being touted and used against him\nBarack Obama went high , despite Donald Trump 's best efforts to bring him down\"",
+    "dataset": "US2016",
+    "schemes": [
+      "GenericAdHominem",
+      "CauseToEffect",
+      "GenericAdHominem",
+      "GenericAdHominem",
+      "GenericAdHominem",
+      "GenericAdHominem",
+      "GenericAdHominem",
+      "PopularPractice",
+      "GenericAdHominem",
+      "GenericAdHominem",
+      "GenericAdHominem"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_172_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to claim that Donald Trump's political career was solely based on the birther movement, given that he has been involved in various other political and business activities?\""
+      },
+      {
+        "id": "CLINTON_172_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to claim that Donald Trump's political career was solely based on the birther movement, given that he has been involved in various other political and business activities?\""
+      },
+      {
+        "id": "CLINTON_172_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to claim that Donald Trump's political career was solely based on the birther movement, given that he has been involved in various other political and business activities?\""
+      }
+    ],
+    "raw_model_output": "\"Is it fair to claim that Donald Trump's political career was solely based on the birther movement, given that he has been involved in various other political and business activities?\""
+  },
+  "MT_53": {
+    "intervention_id": "MT_53",
+    "intervention": "MT: \"And I think that also though goes back to the state of the economy\nBecause the fact is, if living standards aren’t going up what you do is you let people borrow money\nbecause it keeps them happy\nBecause the fundamentals of the economy aren’t generating what you want. But going back to a personal level\nI do believe that as a society we had created a set of social norms and values which protected us from our innate short-termism\nHuman beings are not very good at the long-term\nAnd I think the dismantling of those social norms, and those laws, have made us vulnerable\nAnd I think this is a classic case for moral paternalism\"",
+    "dataset": "moral_maze_schemes",
+    "schemes": [
+      "CauseToEffect",
+      "CauseToEffect",
+      "CauseToEffect",
+      "CauseToEffect",
+      "CauseToEffect"
+    ],
+    "cqs": [
+      {
+        "id": "MT_53_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the dismantling of social norms and laws necessarily lead to increased vulnerability to short-termism, or could there be other factors at play?\""
+      },
+      {
+        "id": "MT_53_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the dismantling of social norms and laws necessarily lead to increased vulnerability to short-termism, or could there be other factors at play?\""
+      },
+      {
+        "id": "MT_53_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the dismantling of social norms and laws necessarily lead to increased vulnerability to short-termism, or could there be other factors at play?\""
+      }
+    ],
+    "raw_model_output": "\"Does the dismantling of social norms and laws necessarily lead to increased vulnerability to short-termism, or could there be other factors at play?\""
+  },
+  "NMmom_209": {
+    "intervention_id": "NMmom_209",
+    "intervention": "NMmom: \"I wish it were imagined\nI have a 9year old with a peanut allergy\nand she has had a reaction on a plane due to peanuts being served.\nThe doctor above understands that the peanut allergy is different from most ofter food allergies because in it life threatening.\nI don't understand how not being able to eat peanuts for a few hours out of your life is worth putting another life at risk.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERExample",
+      "ERExample"
+    ],
+    "cqs": [
+      {
+        "id": "NMmom_209_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to assume that the risk of a life-threatening reaction on a plane is equivalent to the inconvenience of not eating peanuts for a few hours, or are there other factors that should be considered?\""
+      },
+      {
+        "id": "NMmom_209_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to assume that the risk of a life-threatening reaction on a plane is equivalent to the inconvenience of not eating peanuts for a few hours, or are there other factors that should be considered?\""
+      },
+      {
+        "id": "NMmom_209_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to assume that the risk of a life-threatening reaction on a plane is equivalent to the inconvenience of not eating peanuts for a few hours, or are there other factors that should be considered?\""
+      }
+    ],
+    "raw_model_output": "\"Is it reasonable to assume that the risk of a life-threatening reaction on a plane is equivalent to the inconvenience of not eating peanuts for a few hours, or are there other factors that should be considered?\""
+  },
+  "REBacon_165": {
+    "intervention_id": "REBacon_165",
+    "intervention": "REBacon: \"That's ridiculous.\nI agree that there needs to be some compensation for those who use miles.\nAlso, airlines' refusal to put people on other airlines' flights has long annoyed me.\"\n < this message is answering to > \nVec: \"The rules definitely need to be spelled out as specifically as possible\nand should apply to all airlines\nI don't trust the airlines to develop and enforce their own policy.\nPrevious experience with getting bumped off a flight (I was using miles) and the airline refused to put me on another carrier's flight\ninstead I had a flight that was six hours later with absolutely no compensation.\nBasically the customer servie rep's attitude was \"It's not my problem and you're using miles so we owe you nothing.\"\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERPracticalReasoning"
+    ],
+    "cqs": [
+      {
+        "id": "REBacon_165_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that all passengers, regardless of how they paid for their tickets, should receive the same level of compensation and treatment, especially when using miles might involve different terms and conditions set by the airline?\""
+      },
+      {
+        "id": "REBacon_165_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that all passengers, regardless of how they paid for their tickets, should receive the same level of compensation and treatment, especially when using miles might involve different terms and conditions set by the airline?\""
+      },
+      {
+        "id": "REBacon_165_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that all passengers, regardless of how they paid for their tickets, should receive the same level of compensation and treatment, especially when using miles might involve different terms and conditions set by the airline?\""
+      }
+    ],
+    "raw_model_output": "\"Is it fair to assume that all passengers, regardless of how they paid for their tickets, should receive the same level of compensation and treatment, especially when using miles might involve different terms and conditions set by the airline?\""
+  },
+  "howie_230": {
+    "intervention_id": "howie_230",
+    "intervention": "howie: \"So true!\nI see this all the time.\nThey try to ban peanuts at school because some over anxious mom saw something on TV about food allergies and that became her kids affliction du jour.\nPeanuts are harmless to 99.99999% of humans.\nThe 3 living humans who are actually in danger just need to stay in a bubble and leave the rest of us in peace.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERExample"
+    ],
+    "cqs": [
+      {
+        "id": "howie_230_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that the 0.00001% of the population who are severely allergic to peanuts should be completely isolated, rather than taking reasonable precautions to protect them in a shared environment like a school?\""
+      },
+      {
+        "id": "howie_230_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that the 0.00001% of the population who are severely allergic to peanuts should be completely isolated, rather than taking reasonable precautions to protect them in a shared environment like a school?\""
+      },
+      {
+        "id": "howie_230_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it fair to assume that the 0.00001% of the population who are severely allergic to peanuts should be completely isolated, rather than taking reasonable precautions to protect them in a shared environment like a school?\""
+      }
+    ],
+    "raw_model_output": "\"Is it fair to assume that the 0.00001% of the population who are severely allergic to peanuts should be completely isolated, rather than taking reasonable precautions to protect them in a shared environment like a school?\""
+  },
+  "jccjoin_151": {
+    "intervention_id": "jccjoin_151",
+    "intervention": "jccjoin: \"There is a nonprofit organization called the food allergy network\nfoodallergy.org.\nThis site will give you some insight into the peanut allergy issue.\nMy son now ten years old has a very severe peanut allergy.\nSome of the things most kids take for granted are not available to him\ndue to the allergy.\nHe cannot go to a professional baseball game for one.\nWe also have to plan our vacations the locations that peanut free airlines to.\nThe common misconception is \"just don't eat peanuts!\"\nIt would be nice if it were that simple.\nThe confined space and recycling of the air in a plane is a peanut allergy sufferers nightmare.\nWhen people eat peanuts or open up bags of preanuts some of the allergens are released into the air.\nTherefore the allergic person can be affected without physically eating the peanuts.\nThe air becomes toxic to them.\nFor my son this is a not just discomfort it could kill him.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERExpertOpinion",
+      "ERExample",
+      "ERExpertOpinion",
+      "ERExample"
+    ],
+    "cqs": [
+      {
+        "id": "jccjoin_151_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that the air in a plane can become 'toxic' to someone with a severe peanut allergy supported by scientific evidence, or is it based on anecdotal experiences?\""
+      },
+      {
+        "id": "jccjoin_151_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that the air in a plane can become 'toxic' to someone with a severe peanut allergy supported by scientific evidence, or is it based on anecdotal experiences?\""
+      },
+      {
+        "id": "jccjoin_151_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that the air in a plane can become 'toxic' to someone with a severe peanut allergy supported by scientific evidence, or is it based on anecdotal experiences?\""
+      }
+    ],
+    "raw_model_output": "\"Is the argument that the air in a plane can become 'toxic' to someone with a severe peanut allergy supported by scientific evidence, or is it based on anecdotal experiences?\""
+  },
+  "martinezcs_20": {
+    "intervention_id": "martinezcs_20",
+    "intervention": "martinezcs: \"The buffer zone solution would not give me any confidence.\nThe time that my daughter had a reaction it was right after visiting the restroom.\nIn a buffer zone situation the person could still be exposed to peanut residue in other parts of the plane (e.g. the restroom door handle, sink faucet, etc).\nNow we carry wipes and wipe down every surface in our seating area and in the restroom when we fly an airline like southwest that serves peanuts on previous flights even if they aren't serving it on ours.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "Example",
+      "Example"
+    ],
+    "cqs": [
+      {
+        "id": "martinezcs_20_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the use of wipes to clean surfaces in the seating area and restroom effectively mitigate the risk of peanut exposure in a buffer zone situation, or does it suggest that a buffer zone is insufficient to ensure safety?\""
+      },
+      {
+        "id": "martinezcs_20_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the use of wipes to clean surfaces in the seating area and restroom effectively mitigate the risk of peanut exposure in a buffer zone situation, or does it suggest that a buffer zone is insufficient to ensure safety?\""
+      },
+      {
+        "id": "martinezcs_20_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the use of wipes to clean surfaces in the seating area and restroom effectively mitigate the risk of peanut exposure in a buffer zone situation, or does it suggest that a buffer zone is insufficient to ensure safety?\""
+      }
+    ],
+    "raw_model_output": "\"Does the use of wipes to clean surfaces in the seating area and restroom effectively mitigate the risk of peanut exposure in a buffer zone situation, or does it suggest that a buffer zone is insufficient to ensure safety?\""
+  },
+  "pnorton_210": {
+    "intervention_id": "pnorton_210",
+    "intervention": "pnorton: \"You have no idea what you are talking about.\nThey are not mostly imagined\nand it is a serious issue.\nIf you can't survive hours or days without peanuts then that is your problem\nand if you think it is that much of an inconvenience then maybe you should see somebody to deal with your own lack of discipline.\"\n < this message is answering to > \nhowie: \"Has ANYONE ever actually died on a plane from eating peanuts?\nDidn't think so.\nMost food allergies are imagined.\nYou clearly have a financial interest in promoting the myth of food allergy.\nIf someone is actually that allergic, they should stay home and not inconvenience the rest of us.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERAdHominem",
+      "ERAdHominem"
+    ],
+    "cqs": [
+      {
+        "id": "pnorton_210_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to claim that most food allergies are imagined, given that pnorton provides an example of a serious issue where individuals cannot survive without avoiding certain foods?\""
+      },
+      {
+        "id": "pnorton_210_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to claim that most food allergies are imagined, given that pnorton provides an example of a serious issue where individuals cannot survive without avoiding certain foods?\""
+      },
+      {
+        "id": "pnorton_210_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to claim that most food allergies are imagined, given that pnorton provides an example of a serious issue where individuals cannot survive without avoiding certain foods?\""
+      }
+    ],
+    "raw_model_output": "\"Is it reasonable to claim that most food allergies are imagined, given that pnorton provides an example of a serious issue where individuals cannot survive without avoiding certain foods?\""
+  },
+  "radamchak_175": {
+    "intervention_id": "radamchak_175",
+    "intervention": "radamchak: \"I have a similar problem with errors on your website with MacOS Safari before it is published.\nOnce the plane has left the gate as long as it's officially waiting for takeoff, then it appears to me passengers should not be allowed to leave the gate.\nHowever, I remember times while traveling thru Denver, United would leave the gate, then taxi to the \"penalty box\" waiting for clearances and take off instructions.\nAirlines should not be allowed to leave the gate unless there is a expected takeoff time issued by FAA ATC Clearance Delivery and Ground Control.\nIf the expected departure time issued by FAA ATC is over 3 hours then the aircraft should not be allowed to leave the gate.\nHowever, if an airline has left the gate, and the departure time is extended while waiting for takeoff,  where the total time is greater than three hours on the ground then the airport and airline should get buses out to the aircraft for any passengers that want to deplane.\nAs you can see there are mitigating circumstances affecting the airline and aircraft and there are a few organizations involved in the situation..\nthese organizations include the airport authority, the FAA ATC ground control and clearance delivery control, and airline pilots.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERPracticalReasoning",
+      "ERExample",
+      "ERPracticalReasoning"
+    ],
+    "cqs": [
+      {
+        "id": "radamchak_175_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to expect that an aircraft should not leave the gate if the expected departure time issued by FAA ATC is over 3 hours, considering the complex and sometimes unpredictable nature of air traffic control and weather conditions?\""
+      },
+      {
+        "id": "radamchak_175_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to expect that an aircraft should not leave the gate if the expected departure time issued by FAA ATC is over 3 hours, considering the complex and sometimes unpredictable nature of air traffic control and weather conditions?\""
+      },
+      {
+        "id": "radamchak_175_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to expect that an aircraft should not leave the gate if the expected departure time issued by FAA ATC is over 3 hours, considering the complex and sometimes unpredictable nature of air traffic control and weather conditions?\""
+      }
+    ],
+    "raw_model_output": "\"Is it reasonable to expect that an aircraft should not leave the gate if the expected departure time issued by FAA ATC is over 3 hours, considering the complex and sometimes unpredictable nature of air traffic control and weather conditions?\""
+  },
+  "stone_170": {
+    "intervention_id": "stone_170",
+    "intervention": "stone: \"The only additions to an airfare should be government mandated taxes and fees.\n\"Surcharges\" should not be allowed in any case.\nFuel, for example, is part of the airline's basic cost.\nIt should not be an add on to a fare, but part of it.\nIf an airline wants to charge more on a certain day, the base fare should include that charge.\nIt should never be added on.\nAnd the proposed rule that the total fare be shown is the only appropriate way to avoid deceptive practices.\nIf an airline wishes to inform a customer about the cost of taxes, is should be allowed to list the base fare before taxes in no greater than 1/2 the typeface of the total fare along with the total fare.\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERPracticalReasoning"
+    ],
+    "cqs": [
+      {
+        "id": "stone_170_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to argue that fuel costs should always be included in the base fare, given that fuel prices can fluctuate significantly and are a significant variable cost for airlines?\""
+      },
+      {
+        "id": "stone_170_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to argue that fuel costs should always be included in the base fare, given that fuel prices can fluctuate significantly and are a significant variable cost for airlines?\""
+      },
+      {
+        "id": "stone_170_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it reasonable to argue that fuel costs should always be included in the base fare, given that fuel prices can fluctuate significantly and are a significant variable cost for airlines?\""
+      }
+    ],
+    "raw_model_output": "\"Is it reasonable to argue that fuel costs should always be included in the base fare, given that fuel prices can fluctuate significantly and are a significant variable cost for airlines?\""
+  },
+  "wkemp_142": {
+    "intervention_id": "wkemp_142",
+    "intervention": "wkemp: \"Rather than set explicit dollar amounts for compensation, just make it equivalent to or twice the cost of the ticket in question.\nThat way, the compensation automatically tracks changes in air fares over time.\nIt's also worth noting that when I buy bus, train, or ferry tickets I pay up front and own the ticket\n(i. e., have entered into a contract with the carrier).\nIf I miss the train, I lose.\nWhy are airline tickets different?\nWhy are airlines allowed to oversell flights as a matter of course?\"",
+    "dataset": "rrd",
+    "schemes": [
+      "ERPracticalReasoning"
+    ],
+    "cqs": [
+      {
+        "id": "wkemp_142_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the comparison between airline tickets and other forms of transportation tickets (like bus, train, or ferry) valid, given the unique operational and logistical challenges faced by airlines, such as overbooking and the need to manage limited resources efficiently?\""
+      },
+      {
+        "id": "wkemp_142_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the comparison between airline tickets and other forms of transportation tickets (like bus, train, or ferry) valid, given the unique operational and logistical challenges faced by airlines, such as overbooking and the need to manage limited resources efficiently?\""
+      },
+      {
+        "id": "wkemp_142_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the comparison between airline tickets and other forms of transportation tickets (like bus, train, or ferry) valid, given the unique operational and logistical challenges faced by airlines, such as overbooking and the need to manage limited resources efficiently?\""
+      }
+    ],
+    "raw_model_output": "\"Is the comparison between airline tickets and other forms of transportation tickets (like bus, train, or ferry) valid, given the unique operational and logistical challenges faced by airlines, such as overbooking and the need to manage limited resources efficiently?\""
+  },
+  "TRUMP_153": {
+    "intervention_id": "TRUMP_153",
+    "intervention": "TRUMP: \"I will\nthe African-American community has been let down by our politicians\nThey talk good around election time, like right now\nafter the election, they said, see ya later, I'll see you in four years\nAfrican-American community—because—look, the community within the inner cities has been so badly treated\nThey've been abused and used in order to get votes by Democrat politicians\nthat's what it is\nThey've controlled these communities for up to 100 years\n...\nyou look at the inner cities\n just left Detroit, and I just left Philadelphia, and I just—you know, you've seen me, I've been all over the place\nYou decided to stay home, and that's OK\nI've been all over\nI've met some of the greatest people I'll ever meet within these communities\nthey are very, very upset with what their politicians have told them and what their politicians have done\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Sign",
+      "CircumstantialAdHominem",
+      "Sign",
+      "Sign",
+      "Sign",
+      "PositionToKnow"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_153_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to claim that Democratic politicians have controlled and abused the African-American community for up to 100 years, given the historical and political context of urban governance in the United States?\""
+      },
+      {
+        "id": "TRUMP_153_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to claim that Democratic politicians have controlled and abused the African-American community for up to 100 years, given the historical and political context of urban governance in the United States?\""
+      },
+      {
+        "id": "TRUMP_153_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to claim that Democratic politicians have controlled and abused the African-American community for up to 100 years, given the historical and political context of urban governance in the United States?\""
+      }
+    ],
+    "raw_model_output": "\"Is it accurate to claim that Democratic politicians have controlled and abused the African-American community for up to 100 years, given the historical and political context of urban governance in the United States?\""
+  },
+  "TRUMP_160": {
+    "intervention_id": "TRUMP_160",
+    "intervention": "TRUMP: \"I 'll tell you very—well , just very simple to say\nSidney Blumenthal works for the campaign and close—very close friend of Secretary Clinton\nher campaign manager , Patti Doyle , went to—during the campaign , her campaign against President Obama , fought very hard\nyou can go look it up , and you can check it out\nif you look at CNN this past week , Patti Solis Doyle was on Wolf Blitzer saying that this happened\nBlumenthal sent McClatchy , highly respected reporter at McClatchy , to Kenya to find out about it\nThey were pressing it very hard\nShe failed to get the birth certificate\nWhen I got involved , I did n't fail\nI got him to give the birth certificate\nI 'm satisfied with it\nI 'll tell you why I 'm satisfied with it\n...\nI want to get on to defeating ISIS\nI want to get on to creating jobs\nI want to get on to having a strong border\nI want to get on to things that are very important to me and that are very important to the country\"",
+    "dataset": "US2016",
+    "schemes": [
+      "CauseToEffect",
+      "PositionToKnow",
+      "Example",
+      "Example",
+      "Example",
+      "Values"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_160_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does Trump's claim that Sidney Blumenthal's efforts to find Obama's birth certificate in Kenya prove that the issue was a significant campaign strategy for Clinton, or could it have been a minor or personal initiative?\""
+      },
+      {
+        "id": "TRUMP_160_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does Trump's claim that Sidney Blumenthal's efforts to find Obama's birth certificate in Kenya prove that the issue was a significant campaign strategy for Clinton, or could it have been a minor or personal initiative?\""
+      },
+      {
+        "id": "TRUMP_160_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does Trump's claim that Sidney Blumenthal's efforts to find Obama's birth certificate in Kenya prove that the issue was a significant campaign strategy for Clinton, or could it have been a minor or personal initiative?\""
+      }
+    ],
+    "raw_model_output": "\"Does Trump's claim that Sidney Blumenthal's efforts to find Obama's birth certificate in Kenya prove that the issue was a significant campaign strategy for Clinton, or could it have been a minor or personal initiative?\""
+  },
+  "TRUMP_185": {
+    "intervention_id": "TRUMP_185",
+    "intervention": "TRUMP: \" I don't\nmaybe it was\nit could be Russia\nit could also be China\nIt could also be lots of other people\nIt also could be somebody sitting on their bed that weighs 400 pounds , OK ?\nYou do n't know who broke in to DNC\nwhat did we learn with DNC ?\nWe learned that Bernie Sanders was taken advantage of by your people\nby Debbie Wasserman Schultz\nLook what happened to her\nBernie Sanders was taken advantage of\nThat 's what we learned\nwhether that was Russia , whether that was China , whether it was another country , we do n't know\nhe truth is , under President Obama we 've lost control of things that we used to have control over\nWe came in with the Internet\nwe came up with the Internet\nSecretary Clinton and myself would agree very much , when you look at what ISIS is doing with the Internet\nthey 're beating us at our own game\nISIS\nwe have to get very , very tough on cyber and cyber warfare\nit is a huge problem\nI have a son\nHe 's 10 years old\nHe has computers\nHe is so good with these computers\nit 's unbelievable\nThe security aspect of cyber is very , very tough\nmaybe it 's hardly doable\nwe are not doing the job we should be doing\nthat 's true throughout our whole governmental society\nWe have so many things that we have to do better , Lester\ncertainly cyber is one of them\"",
+    "dataset": "US2016",
+    "schemes": [
+      "GenericAdHominem",
+      "Example",
+      "VerbalClassification",
+      "Example",
+      "Sign",
+      "Example"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_185_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that the DNC hack could have been perpetrated by a wide range of actors, including a 400-pound person on a bed, a reasonable basis for dismissing the possibility of Russian involvement?\""
+      },
+      {
+        "id": "TRUMP_185_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that the DNC hack could have been perpetrated by a wide range of actors, including a 400-pound person on a bed, a reasonable basis for dismissing the possibility of Russian involvement?\""
+      },
+      {
+        "id": "TRUMP_185_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the argument that the DNC hack could have been perpetrated by a wide range of actors, including a 400-pound person on a bed, a reasonable basis for dismissing the possibility of Russian involvement?\""
+      }
+    ],
+    "raw_model_output": "\"Is the argument that the DNC hack could have been perpetrated by a wide range of actors, including a 400-pound person on a bed, a reasonable basis for dismissing the possibility of Russian involvement?\""
+  },
+  "TRUMP_208": {
+    "intervention_id": "TRUMP_208",
+    "intervention": "TRUMP: \"I did not support the war in Iraq\n...\nThat is a mainstream media nonsense put out by her\nthe best person in her campaign is mainstream media\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Bias"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_208_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to claim that supporting the war in Iraq is a 'mainstream media nonsense put out by her' without providing specific evidence or examples?\""
+      },
+      {
+        "id": "TRUMP_208_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to claim that supporting the war in Iraq is a 'mainstream media nonsense put out by her' without providing specific evidence or examples?\""
+      },
+      {
+        "id": "TRUMP_208_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it accurate to claim that supporting the war in Iraq is a 'mainstream media nonsense put out by her' without providing specific evidence or examples?\""
+      }
+    ],
+    "raw_model_output": "\"Is it accurate to claim that supporting the war in Iraq is a 'mainstream media nonsense put out by her' without providing specific evidence or examples?\""
+  },
+  "TRUMP_214": {
+    "intervention_id": "TRUMP_214",
+    "intervention": "TRUMP: \"The record does not show that\n...\nThe record shows that I 'm right\nWhen I did an interview with Howard Stern , very lightly , first time anyone 's asked me that , I said , very lightly , I do n't know , maybe , who knows\nEssentially\nI then did an interview with Neil Cavuto\nWe talked about the economy is more important\nI then spoke to Sean Hannity , which everybody refuses to call Sean Hannity\nI had numerous conversations with Sean Hannity at Fox\nSean Hannity said—and he called me the other day—and I spoke to him about it—he said you were totally against the war\nhe was for the war\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Example",
+      "Example",
+      "Example",
+      "VerbalClassification"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_214_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does Sean Hannity's statement that 'you were totally against the war' contradict Trump's earlier comments in the Howard Stern interview where he said, 'I don't know, maybe, who knows' about his stance on the war?\""
+      },
+      {
+        "id": "TRUMP_214_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does Sean Hannity's statement that 'you were totally against the war' contradict Trump's earlier comments in the Howard Stern interview where he said, 'I don't know, maybe, who knows' about his stance on the war?\""
+      },
+      {
+        "id": "TRUMP_214_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does Sean Hannity's statement that 'you were totally against the war' contradict Trump's earlier comments in the Howard Stern interview where he said, 'I don't know, maybe, who knows' about his stance on the war?\""
+      }
+    ],
+    "raw_model_output": "\"Does Sean Hannity's statement that 'you were totally against the war' contradict Trump's earlier comments in the Howard Stern interview where he said, 'I don't know, maybe, who knows' about his stance on the war?\""
+  },
+  "TRUMP_218": {
+    "intervention_id": "TRUMP_218",
+    "intervention": "TRUMP: \"And when he—excuse me\nthat was before the war started\nSean Hannity said very strongly to me and other people—he 's willing to say it , but nobody wants to call him . I was against the war\nHe said , you used to have fights with me\nSean was in favor of the war\nI understand that side , also , not very much\nwe should have never been there\nnobody called Sean Hannity\nthen they did an article in a major magazine , shortly after the war started\nin '04\nthey did an article which had me totally against the war in Iraq\none of your compatriots said , you know , whether it was before or right after , Trump was definitely\nif you read this article , there 's no doubt\nI 'll ask the press—if somebody would call up Sean Hannity , this was before the war started\nHe and I used to have arguments about the war\nI said , it 's a terrible and a stupid thing\nit 's a terrible and a stupid thing\nIt 's going to destabilize the Middle East\nthat 's exactly what it 's done\nIt 's been a disaster\nNo , no\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Consequences",
+      "PositionToKnow"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_218_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the claim that Trump was 'totally against the war in Iraq' before it started hold up if no one can verify Sean Hannity's statement, and what does this suggest about the reliability of Trump's assertion?\""
+      },
+      {
+        "id": "TRUMP_218_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the claim that Trump was 'totally against the war in Iraq' before it started hold up if no one can verify Sean Hannity's statement, and what does this suggest about the reliability of Trump's assertion?\""
+      },
+      {
+        "id": "TRUMP_218_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the claim that Trump was 'totally against the war in Iraq' before it started hold up if no one can verify Sean Hannity's statement, and what does this suggest about the reliability of Trump's assertion?\""
+      }
+    ],
+    "raw_model_output": "\"Does the claim that Trump was 'totally against the war in Iraq' before it started hold up if no one can verify Sean Hannity's statement, and what does this suggest about the reliability of Trump's assertion?\""
+  },
+  "CLINTON_136": {
+    "intervention_id": "CLINTON_136",
+    "intervention": "CLINTON: \"implicit bias is a problem for everyone, not just police\ntoo many of us in our great country jump to conclusions about each other\nwe need all of us to be asking hard questions about, you know, why am I feeling this way\nwhen it comes to policing, since it can have literally fatal consequences\nin my first budget, we would put money into that budget to help us deal with implicit bias by retraining a lot of our police officers\nmet with a group of very distinguished, experienced police chiefs a few weeks ago\nThey admit it's an issue\nThey've got a lot of concerns\nMental health is one of the biggest concerns\nnow police are having to handle a lot of really difficult mental health problems on the street\nThey want support, they want more training, they want more assistance\nthe federal government could be in a position where we would offer and provide that\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Sign",
+      "PositionToKnow",
+      "PositionToKnow",
+      "Bias"
+    ],
+    "cqs": [
+      {
+        "id": "CLINTON_136_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the federal government's provision of funding for retraining police officers to address implicit bias guarantee that police will effectively change their behavior and reduce fatal consequences?\""
+      },
+      {
+        "id": "CLINTON_136_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the federal government's provision of funding for retraining police officers to address implicit bias guarantee that police will effectively change their behavior and reduce fatal consequences?\""
+      },
+      {
+        "id": "CLINTON_136_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the federal government's provision of funding for retraining police officers to address implicit bias guarantee that police will effectively change their behavior and reduce fatal consequences?\""
+      }
+    ],
+    "raw_model_output": "\"Does the federal government's provision of funding for retraining police officers to address implicit bias guarantee that police will effectively change their behavior and reduce fatal consequences?\""
+  },
+  "TRUMP_15": {
+    "intervention_id": "TRUMP_15",
+    "intervention": "TRUMP: \"the first thing you do is do n't let the jobs leave\nThe companies are leaving\nI could name\nthere are thousands of them\nThey 're leaving\nthey 're leaving in bigger numbers than ever\ngood luck\nWe wish you a lot of luck\nif you think you 're going to make your air conditioners or your cars or your cookies or whatever you make and bring them into our country without a tax , you 're wrong\nonce you say you 're going to have to tax them coming in\nthe special interests want those companies to leave\n in many cases , they own the companies\nour politicians never do this\nthey have special interests\nwhat I 'm saying is , we can stop them from leaving\nthat 's a big , big factor\"",
+    "dataset": "US2016",
+    "schemes": [
+      "Bias",
+      "Bias",
+      "Bias",
+      "FearAppeal",
+      "VerbalClassification"
+    ],
+    "cqs": [
+      {
+        "id": "TRUMP_15_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it realistic to assume that imposing a tax on imported goods will effectively stop companies from leaving the country, or could it lead to other economic consequences that need to be considered?\""
+      },
+      {
+        "id": "TRUMP_15_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it realistic to assume that imposing a tax on imported goods will effectively stop companies from leaving the country, or could it lead to other economic consequences that need to be considered?\""
+      },
+      {
+        "id": "TRUMP_15_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is it realistic to assume that imposing a tax on imported goods will effectively stop companies from leaving the country, or could it lead to other economic consequences that need to be considered?\""
+      }
+    ],
+    "raw_model_output": "\"Is it realistic to assume that imposing a tax on imported goods will effectively stop companies from leaving the country, or could it lead to other economic consequences that need to be considered?\""
+  },
+  "ND_19": {
+    "intervention_id": "ND_19",
+    "intervention": "ND: \"But how can you say that\nwhen the lenders are actually the banks, that are at the pinnacle of our society?\nAnd indeed the debts that are owed now, by us as a country, even if not individually, are a result of the fact that the banks have got off Scot free\nThere is absolute impunity for lenders at that level.\n...\nBut how can you say that?\nthe lenders are actually the banks, that are at the pinnacle of our society\nThere is absolute impunity for lenders at that level\"",
+    "dataset": "moral_maze_schemes",
+    "schemes": [
+      "CircumstantialAdHominem"
+    ],
+    "cqs": [
+      {
+        "id": "ND_19_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the claim that banks have 'absolute impunity' for their lending practices supported by evidence within the text, or is it an assertion that requires further substantiation?\""
+      },
+      {
+        "id": "ND_19_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the claim that banks have 'absolute impunity' for their lending practices supported by evidence within the text, or is it an assertion that requires further substantiation?\""
+      },
+      {
+        "id": "ND_19_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Is the claim that banks have 'absolute impunity' for their lending practices supported by evidence within the text, or is it an assertion that requires further substantiation?\""
+      }
+    ],
+    "raw_model_output": "\"Is the claim that banks have 'absolute impunity' for their lending practices supported by evidence within the text, or is it an assertion that requires further substantiation?\""
+  },
+  "CF_58": {
+    "intervention_id": "CF_58",
+    "intervention": "CF: \"But I think you can be in a situation where you say, “We will let you write off your debts, without incurring moral hazard. But you have to have-”\n...\nBecause bankruptcy used to be shameful. And I do think there is something in it\nOtherwise you’ve got slavery.\nI mean, if you get into debt, and you can never get out of it, that’s slavery\nYou’ve got to be able to start again.\n But you start again with some very strict rules and a stigma.\nAnd being bankrupt wasn’t something – now, kind of, it’s almost as though people won’t take account of the fact they’ve got absolutely no money, and they're in debt, and they don’t want to pay it\nWhereas I do feel a country can even say, “We’re going to go bankrupt. It’s humiliating. We’ll do it. We’ll start again. We’ll grow\nOne of my concerns is this demoralisation question\nIn this debate it seems to me, and actually the way Mr Cameron posed it, was you got a choice of being mollycoddled at home by your mum and dad, or you demand that you’re sustained by the State.\nDon’t you think that we need to encourage young people to see a third way, an alternative to that?\"",
+    "dataset": "moral_maze_schemes",
+    "schemes": [
+      "NegativeConsequences",
+      "NegativeConsequences"
+    ],
+    "cqs": [
+      {
+        "id": "CF_58_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the argument that bankruptcy should carry a stigma to prevent moral hazard adequately address the potential for demoralization and the impact on individuals' ability to start anew?\""
+      },
+      {
+        "id": "CF_58_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the argument that bankruptcy should carry a stigma to prevent moral hazard adequately address the potential for demoralization and the impact on individuals' ability to start anew?\""
+      },
+      {
+        "id": "CF_58_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the argument that bankruptcy should carry a stigma to prevent moral hazard adequately address the potential for demoralization and the impact on individuals' ability to start anew?\""
+      }
+    ],
+    "raw_model_output": "\"Does the argument that bankruptcy should carry a stigma to prevent moral hazard adequately address the potential for demoralization and the impact on individuals' ability to start anew?\""
+  },
+  "JL_69": {
+    "intervention_id": "JL_69",
+    "intervention": "JL: \"So, if I want a washing machine, I have to go to the launderette every week at the moment and spend several pounds in the launderette.\nBut, if I buy the washing machine, on credit, I can have my own washing machine, for pretty much the same amount of money that I'm spending in the launderette\nThat seems to me to be beneficial\nIt raises living standards\nAnd this idea of usury has been – well, it’s been fiddled, hasn’t it, over the years?\nBecause why did we have money lenders from one religious persuasion unable to lend to their own persuasion, but happily would lend to those of another religious persuasion?\n I don’t buy that at all\nI think that credit raises living standards\nIt’s beneficial to people\nbecause it allows them to fund today’s purchases out of their future income\"",
+    "dataset": "moral_maze_schemes",
+    "schemes": [
+      "PositiveConsequences",
+      "PositiveConsequences",
+      "PositiveConsequences",
+      "PositiveConsequences",
+      "PositiveConsequences",
+      "PositiveConsequences"
+    ],
+    "cqs": [
+      {
+        "id": "JL_69_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the argument that buying a washing machine on credit for the same amount of money spent at a launderette truly raise living standards, or does it merely shift the financial burden to future income, potentially leading to long-term debt?\""
+      },
+      {
+        "id": "JL_69_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the argument that buying a washing machine on credit for the same amount of money spent at a launderette truly raise living standards, or does it merely shift the financial burden to future income, potentially leading to long-term debt?\""
+      },
+      {
+        "id": "JL_69_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the argument that buying a washing machine on credit for the same amount of money spent at a launderette truly raise living standards, or does it merely shift the financial burden to future income, potentially leading to long-term debt?\""
+      }
+    ],
+    "raw_model_output": "\"Does the argument that buying a washing machine on credit for the same amount of money spent at a launderette truly raise living standards, or does it merely shift the financial burden to future income, potentially leading to long-term debt?\""
+  },
+  "MP_24": {
+    "intervention_id": "MP_24",
+    "intervention": "MP: \"But why are borrowers doing badly?\nI mean on the one hand interest rates are being kept really low, in order that borrowers won’t bear the consequences of their foolish borrowing\nAnd then again, not many people have been driven out of the houses on which they can’t afford to maintain their payments\nthe banks are so terrified that if they crystallise the debts their balance sheets will be insupportable\nactually, people have run up lots of debt, are paying very low rates of interest, and they’re able to continue to live in houses that they can’t afford to pay for\"",
+    "dataset": "moral_maze_schemes",
+    "schemes": [
+      "NegativeConsequences"
+    ],
+    "cqs": [
+      {
+        "id": "MP_24_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the MP's argument that borrowers are able to continue living in houses they can't afford to pay for, due to low interest rates and banks' reluctance to crystallize debts, overlook the long-term financial instability this could create for both borrowers and banks?\""
+      },
+      {
+        "id": "MP_24_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the MP's argument that borrowers are able to continue living in houses they can't afford to pay for, due to low interest rates and banks' reluctance to crystallize debts, overlook the long-term financial instability this could create for both borrowers and banks?\""
+      },
+      {
+        "id": "MP_24_api_vllm-huize2p-72b-awq-int4-hf-chat",
+        "cq": "\"Does the MP's argument that borrowers are able to continue living in houses they can't afford to pay for, due to low interest rates and banks' reluctance to crystallize debts, overlook the long-term financial instability this could create for both borrowers and banks?\""
+      }
+    ],
+    "raw_model_output": "\"Does the MP's argument that borrowers are able to continue living in houses they can't afford to pay for, due to low interest rates and banks' reluctance to crystallize debts, overlook the long-term financial instability this could create for both borrowers and banks?\""
+  }
+}
